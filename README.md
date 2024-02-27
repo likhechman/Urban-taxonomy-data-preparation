@@ -24,4 +24,3 @@ All Data was collected via open sources:
  - Koordinates
 
 In this code you can use any data which contanes geometry column. 
-"# data_preparation_for_urban_taxonomy" 
