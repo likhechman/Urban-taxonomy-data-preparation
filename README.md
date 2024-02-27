@@ -20,7 +20,7 @@ generate the data. You can replace and editing this code to prepare data.
 All Data was collected via open sources:
 
  - OSM
- - Open Buildings
+ - Open Buildings (not available due to large size)
  - Koordinates
 
 In this code you can use any data which contanes geometry column. 
